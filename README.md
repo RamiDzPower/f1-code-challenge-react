@@ -1,3 +1,23 @@
+# WorldChampion
+
+This project is developed to consume World F1 Champion from Ergast Api
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Install
+
+Once the repo is cloned Run `npm install` to install all the dependencies.
+
+## Development server
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Running unit tests
+### `npm test`
+
+Launches the test runner in the interactive watch mode.<br>
+
+------
 ### Language
 
 Typescript used as main language.
@@ -38,22 +58,6 @@ In case of app growth, we can use namespaces on top of these folders, each names
 Also API folder is very simple right now, later, with more API's we can decide best way to organize it.
 
 ------
-
-## Available Scripts
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-
-------
-
 ## TODO
 
 - better view on mobile phones (responsive)
