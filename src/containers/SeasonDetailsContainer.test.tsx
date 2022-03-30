@@ -33,7 +33,7 @@ describe("Render SeasonDetailsContainer", () => {
       SeasonDetailsContainerComponent.update();
 
       const state = SeasonDetailsContainerComponent.instance().state as any;
-      expect(state.rounds.length).toEqual(18);
+      expect(state.rounds.length).toEqual(17);
       expect(state.loading).toEqual(false);
       expect(
         SeasonDetailsContainerComponent.find(SeasonDetails).exists()

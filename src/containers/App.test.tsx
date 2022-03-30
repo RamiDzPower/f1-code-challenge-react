@@ -20,7 +20,7 @@ describe("Render App", () => {
       AppComponent.update();
 
       const state = AppComponent.instance().state as any;
-      expect(state.seasons.length).toEqual(11);
+      expect(state.seasons.length).toEqual(17);
       expect(state.loading).toEqual(false);
       done();
     });
