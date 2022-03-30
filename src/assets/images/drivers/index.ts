@@ -13,5 +13,5 @@ export default {
   vettel: driverImageVettel,
   button: driverImageButton,
   rosberg: driverImageRosberg,
-  maxverstappen: driverImageMaxVerstappen,
+  max_verstappen: driverImageMaxVerstappen,
 };
